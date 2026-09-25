@@ -17,4 +17,4 @@ I build full-stack web applications with Java/Spring Boot and Python/FastAPI.
 - [Portfolio](https://berattansucabuk.dev)
 - [LinkedIn](https://www.linkedin.com/in/berat-tansu-%C3%A7abuk-02b55b244/)
 
-Currently looking for a summer 2026 internship 🚀
+
