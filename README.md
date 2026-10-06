@@ -31,6 +31,10 @@ Final-year Software Engineering student focused on backend development with **C#
 
 **Also explored:** Java, Python, React
 
+## 🧩 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/berattansu?theme=dark&font=Nunito&ext=activity)
+
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/berat-tansu-cabuk/)
