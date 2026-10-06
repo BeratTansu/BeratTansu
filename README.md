@@ -5,8 +5,8 @@ Final-year Software Engineering student focused on backend development with **C#
 ## 🔨 Currently working on
 
 - **[Simple Note API](https://github.com/BeratTansu/Simple-Note-API)**: a RESTful notes API built with ASP.NET Core Web API.
-  Done: project setup, note model, first GET endpoint tested with Postman.
-  Next: full CRUD with proper status codes (201 / 400 / 404), EF Core Code First & migrations. *(in progress)*
+  Done: full CRUD with proper status codes (200/201/204/400/404), tested with Postman.
+  Next: search & filtering, EF Core Code First & migrations. *(in progress)*
 - **Football matchmaking platform** (graduation project): a web platform that matches players with amateur football games that are missing players.
   ASP.NET Core, EF Core, PostgreSQL. AI features planned: turning free-text game listings into structured data, and player recommendations. *(planning)*
 
@@ -30,10 +30,6 @@ Final-year Software Engineering student focused on backend development with **C#
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Also explored:** Java, Python, React
-
-## 🧩 LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/berattansu?theme=dark&font=Nunito&ext=activity)
 
 ## 🔗 Links
 
