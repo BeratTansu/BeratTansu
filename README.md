@@ -4,11 +4,15 @@ Final-year Software Engineering student focused on backend development with **C#
 
 ## 🔨 Currently working on
 
-- **[Simple Note API](https://github.com/BeratTansu/Simple-Note-API)**: a RESTful notes API built with ASP.NET Core Web API.
-  Done: full CRUD with proper status codes (200/201/204/400/404), search & filtering by title and category, tested with Postman.
-  Next: EF Core Code First & migrations. *(in progress)*
-- **Football matchmaking platform** (graduation project): a web platform that matches players with amateur football games that are missing players.
-  ASP.NET Core, EF Core, PostgreSQL. AI features planned: turning free-text game listings into structured data, and player recommendations. *(planning)*
+**Backend roadmap**: a series of progressively harder ASP.NET Core Web API projects.
+
+1. ✅ **[Simple Note API](https://github.com/BeratTansu/Simple-Note-API)**: CRUD with proper status codes, EF Core Code First & migrations, PostgreSQL, Postman collection.
+2. 🚧 **[Library Management API](https://github.com/BeratTansu/Library-Management-API)**: layered architecture (API / Business / DataAccess / Entities), repository + service with dependency injection, DTOs with AutoMapper, loan rules (409 when deleting a book with loan history), book status computed from active loans.
+   Next: FluentValidation, JWT authentication, Admin/Member roles.
+3. ⏳ Next projects: async/await & query performance, then CQRS with MediatR.
+
+**Football matchmaking platform** (graduation project): a web platform that matches players with amateur football games that are missing players.
+ASP.NET Core, EF Core, PostgreSQL. AI features planned: turning free-text game listings into structured data, and player recommendations. *(domain design done, database design in progress)*
 
 ## 💼 Experience
 
@@ -28,6 +32,7 @@ Final-year Software Engineering student focused on backend development with **C#
 ![EF Core](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Also explored:** Java, Python, React
 
